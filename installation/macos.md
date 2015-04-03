@@ -9,7 +9,7 @@ Docker 引擎要求 Linux 内核环境，所以要在 OSＸ上运行 Docker 我�
 
 ##安装
 
-1.下载最新的版本的 Docker for OS X Installer（因为官方用的亚马逊的云存储，貌似给封了~我下载了一个放到七牛云存储了，大家可以通过下面这个地址下载:[http://qiniu.widuu.com/Boot2Docker-1.1.1.pkg](http://qiniu.widuu.com/Boot2Docker-1.1.1.pkg "Boot2Docker-1.1.1.pkg")<版本：1.1.1>）
+1.下载最新的版本的 Docker for OS X Installer （官方提供的最新下载地址:[https://github.com/boot2docker/osx-installer/releases/latest](https://github.com/boot2docker/osx-installer/releases/latest) 进入页面点击底部的下载即可）
 
 2.运行安装文件，这将安装 VirtualBox 和 Boot2Docker 管理工具。
 
